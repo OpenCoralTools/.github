@@ -2,7 +2,9 @@
 
 **OpenCoral.Tools (OCT)** aims to build an open-source ecosystem of schemas, registries, and utilities for **standardizing coral research and restoration data**.
 
-Preserving our planet's coral reefs is inherently a community effort requiring unprecedented collaboration and cooperation. To make that possible, we need our tools and the data they produce to work together. The goal of OCT is to provide an **open, community-governed data foundation** that empowers individuals and organizations to build, modify, and connect tools for their specific needs while still allowing them to effortlessly share their data and custom solutions with others.
+Preserving our planet's coral reefs is inherently a community effort requiring unprecedented collaboration and cooperation. To make that possible, we need our tools and the data they produce to work together. 
+
+The goal of OCT is to provide an **open, community-governed data foundation** that empowers individuals and organizations to build, modify, and connect tools for their specific needs while still allowing them to effortlessly share their data and custom solutions with others.
 
 ---
 
@@ -33,11 +35,8 @@ Canonical, versioned **JSON Schemas** defining OCT data models
 Machine-readable **registries** of controlled identifiers used by OCT schemas  
 (e.g. species codes, shared genets, organization IDs, enumerations)
 
-### `oct-opus`
-Combining foundational compnents into deployable tools
-
-### `opencoral.tools`
-Project landing page explaining
+### 🚀 `oct-opus`
+Reference applications (web portal, mobile app) showing the ecosystem in action
 
 ---
 
@@ -46,6 +45,7 @@ Project landing page explaining
 OCT is under active development and should be considered **pre-1.0**.  
 Schemas and registries may evolve as the community converges on shared standards.
 
+Follow development at [opencoral.tools](opencoral.tools)
 Feedback, issues, and thoughtful contributions are welcome.
 
 ---
