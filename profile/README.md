@@ -45,7 +45,7 @@ Reference applications (web portal, mobile app) showing the ecosystem in action
 OCT is under active development and should be considered **pre-1.0**.  
 Schemas and registries may evolve as the community converges on shared standards.
 
-Follow development at [opencoral.tools](opencoral.tools)
+Follow development at [opencoral.tools](https://opencoral.tools/)
 Feedback, issues, and thoughtful contributions are welcome.
 
 ---
