@@ -27,7 +27,7 @@ OCT exists to solve the *infrastructure* problem:
 
 This GitHub organization hosts the **core building blocks** of the OCT ecosystem:
 
-### [📐 `oct-schema`](https://github.com/OpenCoralTools/oct_opus)
+### [📐 `oct-schema`](https://github.com/OpenCoralTools/oct-schema)
 Canonical, versioned **JSON Schemas** defining OCT data models  
 (e.g. species, genets, locations, cohorts, events)
 
