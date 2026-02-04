@@ -35,7 +35,7 @@ Canonical, versioned **JSON Schemas** defining OCT data models
 Machine-readable **registries** of controlled identifiers used by OCT schemas  
 (e.g. species codes, shared genets, organization IDs, enumerations)
 
-### [🐙 `oct_opus`](https://github.com/OpenCoralTools/oct_opus)
+### [🐙 `oct-opus`](https://github.com/OpenCoralTools/oct-opus)
 Deployed reference applications (web portal, mobile app) showing the ecosystem in action
 
 ---
